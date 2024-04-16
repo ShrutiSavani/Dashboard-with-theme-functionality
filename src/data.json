@@ -1,0 +1,94 @@
+{
+  "cardsData": [
+    {
+      "headerName": "@nathanf",
+      "cardScore": 1987,
+      "commType": "FOLLOWERS",
+      "todayScore": "12",
+      "appIconImage": "../assets/icon-facebook.svg",
+      "arrowImg": "../assets/icon-up.svg"
+    },
+    {
+      "headerName": "@nathanf",
+      "cardScore": 1044,
+      "commType": "FOLLOWERS",
+      "todayScore": "99",
+      "appIconImage": "../assets/icon-twitter.svg",
+      "arrowImg": "../assets/icon-up.svg"
+    },
+    {
+      "headerName": "@realnathanf",
+      "cardScore": "11k",
+      "commType": "FOLLOWERS",
+      "todayScore": "1099",
+      "appIconImage": "../assets/icon-instagram.svg",
+      "arrowImg": "../assets/icon-up.svg"
+    },
+    {
+      "headerName": "Nathan F.",
+      "cardScore": 8239,
+      "commType": "SUBSCRIBERS",
+      "todayScore": "144",
+      "appIconImage": "../assets/icon-youtube.svg",
+      "arrowImg": "../assets/icon-down.svg"
+    }
+  ],
+  "overViewCardsData": [
+    {
+      "overViewType": "Page Views",
+      "appIconImage": "../assets/icon-facebook.svg",
+      "overViewScore": 87,
+      "arrowImg": "../assets/icon-up.svg",
+      "todayScore": 3
+    },
+    {
+      "overViewType": "Likes",
+      "appIconImage": "../assets/icon-facebook.svg",
+      "overViewScore": 52,
+      "arrowImg": "../assets/icon-down.svg",
+      "todayScore": 2
+    },
+    {
+      "overViewType": "Likes",
+      "appIconImage": "../assets/icon-instagram.svg",
+      "overViewScore": 5462,
+      "arrowImg": "../assets/icon-up.svg",
+      "todayScore": 2257
+    },
+    {
+      "overViewType": "Profile Views",
+      "appIconImage": "../assets/icon-instagram.svg",
+      "overViewScore": "52k",
+      "arrowImg": "../assets/icon-up.svg",
+      "todayScore": 1375
+    },
+    {
+      "overViewType": "Retweets",
+      "appIconImage": "../assets/icon-twitter.svg",
+      "overViewScore": 117,
+      "arrowImg": "../assets/icon-up.svg",
+      "todayScore": 303
+    },
+    {
+      "overViewType": "Likes",
+      "appIconImage": "../assets/icon-twitter.svg",
+      "overViewScore": 507,
+      "arrowImg": "../assets/icon-up.svg",
+      "todayScore": 553
+    },
+    {
+      "overViewType": "Likes",
+      "appIconImage": "../assets/icon-youtube.svg",
+      "overViewScore": 107,
+      "arrowImg": "../assets/icon-down.svg",
+      "todayScore": 19
+    },
+    {
+      "overViewType": "Total Views",
+      "appIconImage": "../assets/icon-youtube.svg",
+      "overViewScore": 1407,
+      "arrowImg": "../assets/icon-down.svg",
+      "todayScore": 12
+    }
+  ]
+}
