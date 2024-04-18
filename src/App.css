@@ -77,6 +77,7 @@ body #dark {
   z-index: 1;
   top: 7px;
   right: 4px;
+  cursor: pointer;
 }
 
 .dashboard,
